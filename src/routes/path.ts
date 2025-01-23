@@ -4,7 +4,6 @@ export const ROUTES = {
   ABOUT: '/about',
   PROJECTS: '/projects',
   CONTACT: '/contact',
-  // 중첩 라우트 예시
   PROJECTS_DETAIL: '/projects/:id'
 } as const;
 
